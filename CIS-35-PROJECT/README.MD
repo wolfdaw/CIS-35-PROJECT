@@ -2,9 +2,11 @@
 
 Derek Wolf
 Tyler Johnson-Haro
-
+A 2D Left Right moving combat game
 
 PIRATE THEME IDEAS
+
+
 updated: 2/20/19
 Movements: Left/Right, jump/crouch, shoot/attack
 Possible Timer for game/level: (possible reasons for timer or not?) 
